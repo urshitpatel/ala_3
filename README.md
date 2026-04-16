@@ -48,14 +48,15 @@ The **Flutter Local Storage App** is designed to help students understand persis
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 flutter_local_storage_app/
 │── lib/
 │ └── main.dart
-│
 │── pubspec.yaml
 │── README.md
+
+Note: The entire application is implemented in a single file (main.dart) for simplicity and academic purposes.
 
 ---
 
@@ -83,13 +84,21 @@ Check Flutter installation:
 
 ```bash
 flutter doctor
+
 2️⃣ Clone the Repository
+
 git clone https://github.com/your-username/flutter-local-storage-app.git
 cd flutter-local-storage-app
+
+
 3️⃣ Install Dependencies
 flutter pub get
+
+
 4️⃣ Run the Application
 flutter run
+
+
 📦 Dependencies
 
 Add the required dependencies in the pubspec.yaml file based on your chosen storage method.
@@ -115,23 +124,30 @@ dependencies:
 ✅ Use only one storage method as per project requirements.
 
 🚀 How It Works
+
 The user enters data through the input form.
 The data is stored locally using SQLite, Hive, or SharedPreferences.
 Stored records are displayed on the home screen.
 Users can update or delete existing entries.
 All changes are saved and persist even after restarting the application.
+
+
 📚 Learning Outcomes
+
 Understand local data storage in Flutter.
 Implement CRUD operations in a mobile application.
 Gain experience with SQLite, Hive, and SharedPreferences.
 Design responsive and user-friendly interfaces.
 Learn version control using GitHub.
 Create professional technical documentation.
+
+
 📝 Assignment Learning Activity (ALA)
 
 Title: Flutter Application with Local Data Storage
 
 Students will develop a Flutter application with local data storage using SQLite, Hive, or SharedPreferences, demonstrating storing, retrieving, and updating data. They must upload the project code on GitHub along with proper documentation/manual in PDF format explaining the project workflow. This ALA is to be completed individually. Students will submit the GitHub repository link and PDF documentation on the GMIU Web Portal.
+
 
 📄 Documentation
 
@@ -143,25 +159,31 @@ Tools and Technologies
 Implementation Details
 Screenshots
 Conclusion and Learning Outcomes
+
+
 👨‍💻 Author
 
-Name: Nikhilesh Jetani
-Course: BCA / MCA
+Name: URSHIT SACHAPARA
+Course: B.Tec-ICT
 University: Gyanmanjari Innovative University (GMIU)
-GitHub: https://github.com/your-username
+GitHub:(https://github.com/urshitpatel/ala_3)
 
 📜 License
 
 This project is developed for educational and academic purposes only.
 
-© 2026 Nikhilesh Jetani. All Rights Reserved.
+© 2026 urshit sachapara. All Rights Reserved.
+
+
 🔗 Useful Resources
+
 Flutter Documentation: https://flutter.dev
 Dart Documentation: https://dart.dev
 SQLite: https://www.sqlite.org
 Hive Database: https://docs.hivedb.dev
 SharedPreferences: https://pub.dev/packages/shared_preferences
 GitHub: https://github.com
+
 ⭐ Support
 
 If you find this project helpful, please consider giving it a ⭐ on GitHub!
@@ -170,6 +192,6 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
 For any queries or suggestions:
 
-📧 Email: your-email@example.com
+📧 Email:urshitpatel7@gmail.com
 
-🌐 GitHub: https://github.com/your-username
+🌐 GitHub:(https://github.com/urshitpatel/ala_3)
